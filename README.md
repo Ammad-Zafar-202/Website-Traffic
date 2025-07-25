@@ -82,9 +82,3 @@ This standalone Python dashboard simulates IP visitor data and displays live ins
    http://localhost:8501
    ```
 - Integrate with Gemini-based chat assistant for personalized engagement
-
----
-
-## 🤝 Contribution & License
-
-This is part of the **CleanTech Directory Platform**. For collaboration or integration assistance, contact the development team.
