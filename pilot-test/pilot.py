@@ -26,7 +26,7 @@ for ip in ips:
     })
 
 df = pd.DataFrame(data)
-st.title("🌍 Website Traffic Pilot Dashboard")
+st.title("Website Traffic Pilot Dashboard")
 st.write(df)
 
 st.bar_chart(df['country'].value_counts())
